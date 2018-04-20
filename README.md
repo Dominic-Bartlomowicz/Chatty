@@ -34,3 +34,10 @@ open http://localhost:3000
 * Webpack
 * [babel-loader](https://github.com/babel/babel-loader)
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
+
+
+### Screenshots:
+
+
+!["Adding a user:"](https://github.com/Dominic-Bartlomowicz/Chatty/blob/master/docs/NameSet.png)
+!["User modification:"](https://github.com/Dominic-Bartlomowicz/Chatty/blob/master/docs/NameChange.png)

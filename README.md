@@ -28,7 +28,7 @@ open http://localhost:3000
 ```
 
 
-### Dependencies
+### Dependencies:
 
 * React
 * Webpack
